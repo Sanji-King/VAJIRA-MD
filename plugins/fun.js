@@ -1,7 +1,3 @@
-const axios = require("axios");
-const {
-  smd
-} = require("../lib");
 const fetch = require("node-fetch");
 async function randomeFunfacts(_0x1be35e) {
   try {
